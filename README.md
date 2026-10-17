@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Lenguamental 👋 | AI Evaluator & Language Specialist
 
-<!--
-**Lenguamental/Lenguamental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on LLM evaluation and language quality — bridging language assessment background with hands-on model testing.
 
-Here are some ideas to get you started:
+**What I do:**
+- Critically evaluate LLM outputs across helpfulness, truthfulness, and instruction-following
+- Write clear, structured rationales for evaluation decisions
+- Design prompts and rubrics to test edge cases and complex instructions
+- Comfortable switching across models and multi-step workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**
+- Creator of IELTS Speaking evaluation materials — experience in fluency, coherence, and detailed feedback, now applied to AI evaluation
+- Extensive daily use of LLMs for analysis and quality assessment
+
+**Tools:** Python | Markdown | Evaluation Frameworks | Prompt Engineering
+
+> Open to Alignerr-style evaluation projects — Anyone.ai, etc.
